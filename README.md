@@ -12,8 +12,11 @@ Because according to [This Wikipedia Article](https://en.wikipedia.org/wiki/Alt-
 Fork requests are welcome.
 
 # Credits:
-This extension is an variation of @panicsteve's cloud-to-butt extension.
-https://github.com/panicsteve/cloud-to-butt
+This extension is an variation of @panicsteve's cloud-to-butt chrome extension.
+
+Based on the following repos:
+* https://github.com/panicsteve/cloud-to-butt
+* https://github.com/matthiasmeta/1sify
 
 
 Installation
