@@ -1,15 +1,15 @@
 {
-	"manifest_version": 2,
-	"name": "Cloud To Butt",
-	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
-	"content_scripts": 
-	[
-		{
-			"matches": ["*://*/*"],
-			"js": ["content_script.js"],
-			"run_at": "document_end"
-		}
-	]
+  "manifest_version": 2,
+  "name": "Alt Right to Butt",
+  "version": "1.0",
+  "description": "Replaces the text 'alt right' with 'White 💩 Supremacy'.",
+  "content_scripts":
+  [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_end"
+    }
+  ]
 }
 
