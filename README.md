@@ -22,4 +22,6 @@ Based on the following repos:
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag AltRightToButt.crx into the page that appears.
+1. Download the extension file [Direct download of crx file](https://github.com/elg0nz/cloud-to-butt/blob/master/AltRightToButt.crx?raw=true)
+
+2. In Chrome, choose Window > Extensions.  Drag AltRightToButt.crx into the page that appears.
