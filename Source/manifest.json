@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Alt Right to Butt",
   "version": "1.0",
-  "description": "Replaces the text 'alt right' with 'White 💩 Supremacy'.",
+  "description": "Replaces the text 'alt right' with 'White Supremacy 💩'.",
   "content_scripts":
   [
     {

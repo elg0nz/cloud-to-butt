@@ -27,7 +27,7 @@ function walk(node) {
 
 function handleText(textNode) {
   var v = textNode.nodeValue;
-  var replacement = "White 💩 Supremacy";
+  var replacement = "White Supremacy 💩";
 
   // TODO: Refactor to make it easier to add more words and handle variations.
   v = v.replace(/\bAlt Right\b/g, replacement);

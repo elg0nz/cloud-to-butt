@@ -3,7 +3,7 @@ alt-right--to-butt
 
 ![](logo.png)
 
-Chrome extension that replaces occurrences of 'alt right' with 'White 💩 Supremacy'.
+Chrome extension that replaces occurrences of 'alt right' with 'White Supremacy 💩'.
 Because according to [This Wikipedia Article](https://en.wikipedia.org/wiki/Alt-right) both phrases are equivalent.
 (Emoji added for amusement purposes).
 
